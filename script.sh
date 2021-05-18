@@ -1,5 +1,8 @@
-date 2026
+cal 2026
 hostname
 lsblk
 df -h
-ls /
+free -h 
+pwd
+whoami
+history
